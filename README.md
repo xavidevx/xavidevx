@@ -1,4 +1,4 @@
 - Que tal, permiteme presentarme, mi nombre es Xavier y empece mi camino en la programación hace 6 meses.
 - Me intereza aprender más sobre temas de tecnologías y poder aplicarlas al mundo real.
-- Resido en Chile 🇨🇱 actualmente , y soy de nacionalidad < Ecuatoriana 🇪🇨 >....
-- Ok, mucha info, bye....
+- Resido en Chile 🇨🇱 actualmente..
+- Todo por ahora ✌️
